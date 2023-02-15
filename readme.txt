@@ -1,0 +1,1 @@
+*You shouldn't write something in "My zodiac sing is" textbox.
